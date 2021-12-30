@@ -1,1 +1,2 @@
-# Ryba_w_sieci
+# Ryba_w_Sieci
+Serwis Wędkarski, Projekt z Serwisów Internetowych
